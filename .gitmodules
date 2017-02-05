@@ -1,0 +1,39 @@
+[submodule "apps/metaflop-www"]
+	path = apps/metaflop-www
+	url = git@github.com:metaflop/metaflop-www.git
+[submodule "apps/github-high-scores"]
+	path = apps/github-high-scores
+	url = git@github.com:leereilly/github-high-scores.git
+[submodule "apps/git-lighttp"]
+	path = apps/git-lighttp
+	url = git@github.com:hallison/git-lighttp.git
+[submodule "apps/exercism.io"]
+	path = apps/exercism.io
+	url = https://github.com/exercism/exercism.io
+[submodule "apps/taskwarrior-web"]
+	path = apps/taskwarrior-web
+	url = git@github.com:theunraveler/taskwarrior-web.git
+[submodule "apps/travis-api"]
+	path = apps/travis-api
+	url = git@github.com:travis-ci/travis-api.git
+[submodule "apps/travis-listener"]
+	path = apps/travis-listener
+	url = git@github.com:travis-ci/travis-listener.git
+[submodule "apps/haze"]
+	path = apps/haze
+	url = git@github.com:madx/haze.git
+[submodule "apps/amnesia"]
+	path = apps/amnesia
+	url = git@github.com:benschwarz/amnesia.git
+[submodule "apps/nesta"]
+	path = apps/nesta
+	url = git@github.com:gma/nesta.git
+[submodule "apps/API-mock-server"]
+	path = apps/API-mock-server
+	url = git@github.com:zlx/API-mock-server.git
+[submodule "apps/travis-logs"]
+	path = apps/travis-logs
+	url = git@github.com:travis-ci/travis-logs.git
+[submodule "apps/lamernews"]
+	path = apps/lamernews
+	url = git@github.com:antirez/lamernews.git
