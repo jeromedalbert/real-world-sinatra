@@ -58,4 +58,3 @@ git submodule foreach git pull origin master
 
 - Jerome Dalbert http://jeromedalbert.com
 - Contributions are welcome, fork the GitHub repo, make your changes, then submit your pull request! Reach out if you'd like some help.
-
