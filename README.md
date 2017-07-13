@@ -45,9 +45,17 @@ git submodule foreach git pull origin master
 
 ---
 
+## Other Real World Codebase Collections
+
+- Real World React https://github.com/jeromedalbert/real-world-react
+- Real World Ember https://github.com/eliotsykes/real-world-ember
+- Real World Rails https://github.com/eliotsykes/real-world-rails
+- Know any others? Please open a PR and add the link here
+
+---
+
 # Contributors
 
 - Jerome Dalbert http://jeromedalbert.com
 - Contributions are welcome, fork the GitHub repo, make your changes, then submit your pull request! Reach out if you'd like some help.
 
-The idea for this project comes from Eliot Sykes' [real-world-rails](https://github.com/eliotsykes/real-world-rails) repository. Many thanks to him.
