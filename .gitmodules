@@ -43,3 +43,6 @@
 [submodule "apps/mailcatcher"]
 	path = apps/mailcatcher
 	url = git@github.com:sj26/mailcatcher.git
+[submodule "apps/fixer-io"]
+	path = apps/fixer-io
+	url = git@github.com:hakanensari/fixer-io.git
