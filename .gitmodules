@@ -40,3 +40,6 @@
 [submodule "apps/gollum"]
 	path = apps/gollum
 	url = git@github.com:gollum/gollum.git
+[submodule "apps/mailcatcher"]
+	path = apps/mailcatcher
+	url = git@github.com:sj26/mailcatcher.git
