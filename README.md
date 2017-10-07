@@ -46,6 +46,7 @@ git submodule foreach git pull origin master
 ## Other Real World Codebase Collections
 
 - Real World Rails https://github.com/eliotsykes/real-world-rails
+- Real World Ruby Apps https://github.com/jeromedalbert/real-world-ruby-apps
 - Real World React https://github.com/jeromedalbert/real-world-react
 - Real World Ember https://github.com/eliotsykes/real-world-ember
 - Know any others? Please open a PR and add the link here
