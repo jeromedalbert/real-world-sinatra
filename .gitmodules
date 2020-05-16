@@ -43,3 +43,6 @@
 [submodule "apps/fixer-io"]
 	path = apps/fixer-io
 	url = git@github.com:hakanensari/fixer-io.git
+[submodule "apps/bestgems"]
+	path = apps/bestgems
+	url = git@github.com:xmisao/bestgems.org.git
