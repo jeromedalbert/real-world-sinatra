@@ -46,3 +46,6 @@
 [submodule "apps/bestgems"]
 	path = apps/bestgems
 	url = git@github.com:xmisao/bestgems.org.git
+[submodule "apps/lokka"]
+	path = apps/lokka
+	url = git@github.com:lokka/lokka.git
