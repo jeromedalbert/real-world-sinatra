@@ -49,3 +49,7 @@
 [submodule "apps/lokka"]
 	path = apps/lokka
 	url = git@github.com:lokka/lokka.git
+[submodule "apps/attractor"]
+	path = apps/attractor
+	url = git@github.com:julianrubisch/attractor.git
+	branch = master
