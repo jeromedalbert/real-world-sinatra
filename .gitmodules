@@ -53,3 +53,9 @@
 	path = apps/attractor
 	url = git@github.com:julianrubisch/attractor.git
 	branch = master
+[submodule "apps/cutting_edge"]
+	path = apps/cutting_edge
+	url = git@github.com:repotag/cutting_edge.git
+[submodule "apps/search-api"]
+	path = apps/search-api
+	url = git@github.com:alphagov/search-api.git
